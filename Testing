@@ -1,0 +1,35 @@
+<html>
+    <head>
+      <meta charset="utf-8">
+	<style>
+
+	#c {
+	color: gold;
+	background-color: red;
+	}
+
+	#live {
+	margin: auto;
+	}
+
+	</style>
+
+    </head>
+    <body>
+
+	<div id="live">
+	<h1 id="c">I <em>love</em> owls and gold!!!!!</h1>
+      </div>
+
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
